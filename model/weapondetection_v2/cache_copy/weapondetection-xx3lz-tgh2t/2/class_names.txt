@@ -1,0 +1,10 @@
+Armed
+Handgun
+Human
+Launcher
+Rifle
+Shotgun
+handgun
+pistol
+rifle
+shotgun

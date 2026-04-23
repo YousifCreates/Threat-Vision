@@ -1,0 +1,6 @@
+inference-gpu
+supervision
+opencv-python
+streamlit>=1.35.0
+numpy
+Pillow
